@@ -15,7 +15,7 @@ body {
 nav{
     display: flex;
     flex-direction: row; 
-    gap: 160px;
+    gap: 120px;
     background: #fff; 
     justify-content: center;
     padding: 1em 0;
